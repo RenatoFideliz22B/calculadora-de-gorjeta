@@ -109,7 +109,7 @@ main {
 }
 
 .gorjeta input[type="button"]:hover {
-    background-color: var(--green-100);
+    background-color: var(--light-green);
     cursor: pointer;
 }
 
